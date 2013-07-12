@@ -1,5 +1,12 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+<body>
 
-<?php
+	<?php
 
 for ($n = 1; $n <= 10; $n++) {
 
@@ -26,5 +33,9 @@ for ($n = 1; $n <= 10; $n++) {
 
 }
 
-
 ?>
+</body>
+</html>
+
+
+
